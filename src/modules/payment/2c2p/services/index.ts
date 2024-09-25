@@ -1,0 +1,5 @@
+export { default as Payment2C2PCreditProviderService } from "./p-2c2p-credit"
+export { default as Payment2C2PQrProviderService } from "./p-2c2p-qr"
+export { default as Payment2C2PWalletProviderService } from "./p-2c2p-wallet"
+export { default as Payment2C2PInternetBankingProviderService } from "./p-2c2p-internet-banking"
+export { default as Payment2C2PBillingProviderService } from "./p-2c2p-billing"

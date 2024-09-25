@@ -1,0 +1,11 @@
+.dev
+.git
+.github
+.vscode
+build
+dist
+node_modules
+.env
+.env.template
+.gitignore
+yarn.lock

@@ -1,0 +1,1 @@
+export { adminLogsMiddleware } from './admin-logs'
